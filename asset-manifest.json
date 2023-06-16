@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/myPortfolio.github.io/react_upload/static/css/main.e9feb5f1.css",
+    "main.js": "/myPortfolio.github.io/react_upload/static/js/main.dc088612.js",
+    "static/media/MeBack.png": "/myPortfolio.github.io/react_upload/static/media/MeBack.91e25e8bc0c15053f25e.png",
+    "static/media/instBac.png": "/myPortfolio.github.io/react_upload/static/media/instBac.e1630b6a62b106c82afd.png",
+    "static/media/CV.pdf": "/myPortfolio.github.io/react_upload/static/media/CV.78c9125fd0eb835eef12.pdf",
+    "static/media/me-about1.jpg": "/myPortfolio.github.io/react_upload/static/media/me-about1.49402cc99233449bf249.jpg",
+    "static/media/esec.jpg": "/myPortfolio.github.io/react_upload/static/media/esec.f2e09866a1d4f7882577.jpg",
+    "static/media/VC.jpg": "/myPortfolio.github.io/react_upload/static/media/VC.c5857553843cfcc6ed66.jpg",
+    "static/media/CurBack1.png": "/myPortfolio.github.io/react_upload/static/media/CurBack1.4d5ebb256d80790d1125.png",
+    "static/media/INST11.jpg": "/myPortfolio.github.io/react_upload/static/media/INST11.26567ddaf370c1770ad8.jpg",
+    "static/media/INST3.jpg": "/myPortfolio.github.io/react_upload/static/media/INST3.305f3c772edbc0ec9862.jpg",
+    "static/media/W3.jpg": "/myPortfolio.github.io/react_upload/static/media/W3.0ec4811ccb39a4e68c64.jpg",
+    "static/media/GR.jpg": "/myPortfolio.github.io/react_upload/static/media/GR.4d96af828c0977dd7c35.jpg",
+    "static/media/W5.jpg": "/myPortfolio.github.io/react_upload/static/media/W5.bb17ea5ab5bccead0570.jpg",
+    "static/media/INST13.jpg": "/myPortfolio.github.io/react_upload/static/media/INST13.174392680f4dd98b3fd6.jpg",
+    "static/media/game2.jpg": "/myPortfolio.github.io/react_upload/static/media/game2.92f58d1b5d352d95cc38.jpg",
+    "static/media/INST4.jpg": "/myPortfolio.github.io/react_upload/static/media/INST4.820fb242e5c4c87f2447.jpg",
+    "static/media/W4.jpg": "/myPortfolio.github.io/react_upload/static/media/W4.04b1a9b9a872c3278b81.jpg",
+    "static/media/INST9.jpg": "/myPortfolio.github.io/react_upload/static/media/INST9.03c6c0cfddcf5f55f833.jpg",
+    "static/media/INST1.jpg": "/myPortfolio.github.io/react_upload/static/media/INST1.1e0db05e279701071cfa.jpg",
+    "static/media/W6.jpg": "/myPortfolio.github.io/react_upload/static/media/W6.3d3721f6587184ba63df.jpg",
+    "static/media/INST10.jpg": "/myPortfolio.github.io/react_upload/static/media/INST10.ca3d1f9b260700bbc896.jpg",
+    "static/media/INST12.jpg": "/myPortfolio.github.io/react_upload/static/media/INST12.ba9b9017ad197fa444f9.jpg",
+    "static/media/INST7.jpg": "/myPortfolio.github.io/react_upload/static/media/INST7.4dd762de978f619a3ce2.jpg",
+    "static/media/INST8.jpg": "/myPortfolio.github.io/react_upload/static/media/INST8.577e7580dec40aa01e2c.jpg",
+    "static/media/404.jpg": "/myPortfolio.github.io/react_upload/static/media/404.bfb8686bb1c9bfd7a56b.jpg",
+    "static/media/INST02.jpg": "/myPortfolio.github.io/react_upload/static/media/INST02.0f48adc00c3c63bb80e9.jpg",
+    "static/media/INST6.jpg": "/myPortfolio.github.io/react_upload/static/media/INST6.3cd47ec3273804be83be.jpg",
+    "static/media/INST5.jpg": "/myPortfolio.github.io/react_upload/static/media/INST5.a7327c5ddc49b5f25556.jpg",
+    "static/media/W2.jpg": "/myPortfolio.github.io/react_upload/static/media/W2.e9cc29e0504f35e9417a.jpg",
+    "static/media/game1.jpg": "/myPortfolio.github.io/react_upload/static/media/game1.18960ed41490ff727cf9.jpg",
+    "static/media/W1.jpg": "/myPortfolio.github.io/react_upload/static/media/W1.cc1c6943ec523908c189.jpg",
+    "index.html": "/myPortfolio.github.io/react_upload/index.html",
+    "main.e9feb5f1.css.map": "/myPortfolio.github.io/react_upload/static/css/main.e9feb5f1.css.map",
+    "main.dc088612.js.map": "/myPortfolio.github.io/react_upload/static/js/main.dc088612.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9feb5f1.css",
+    "static/js/main.dc088612.js"
+  ]
+}
