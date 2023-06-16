@@ -1,0 +1,67 @@
+#test{
+    width: 80%;
+    margin: auto;
+}
+.tech_text{
+    margin-top: 3rem;
+}
+.test_img{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 2rem;
+    text-align: center;
+    margin-top: 3rem;
+}
+.test_img-img{
+    background-image: url(../../image/instBac.png);
+    background-position:17%; 
+    padding: 1rem;
+    border-radius: 2rem;
+    border: 1px solid transparent;
+    transition: var(--transition);
+    border: 1px solid white;
+}
+.test_img-img:hover{
+    background: transparent;
+}
+.test_inside{
+    border-radius: 1.5rem;
+    overflow: hidden;
+}
+.test_img-img img{
+    padding: 1rem;
+}
+.inst_btn{
+    margin: 1rem;
+    margin-left: 45%;
+}
+.inst_btn a{
+   font-size: 1rem;
+   color: rgb(233, 14, 135);
+}
+
+/* ====== Media Query (Medium Devices) */
+
+@media screen and (max-width: 1024px){
+    .test_img{
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+  /* ====== Media Query (Small Devices) */
+  
+  @media screen and (max-width: 600px){
+    .test_img{
+        grid-template-columns: repeat(1, 1fr);
+        gap: 1rem;
+    }
+    .test_img-img > div{
+        padding: 1rem 1rem;
+    
+    }
+    .inst_btn{
+        margin-left: 35%;
+    }
+    .inst_btn a{
+       font-size: 1rem;
+    }
+  }

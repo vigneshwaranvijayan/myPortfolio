@@ -1,0 +1,76 @@
+.tech_text h5{
+    text-align: center;
+    color: var(--color-light);
+}
+.tech_text h2{
+    text-align: center;
+    color: var(--color-primary);
+}
+.technical_container{
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    gap: 2rem;
+}
+.technical_container > div{
+    margin-top: 2rem;
+    padding: 2.4rem 5rem;
+    border-radius: 2rem;
+    border: 1px solid white;
+    transition: var(--transition);
+    background: transparent;
+}
+.technical_container > div:hover{
+    background: var(--color-bg-variant);
+    border: 1px solid white;
+    cursor: default;
+} 
+.technical_container h3{
+    text-align: center;
+    color: var(--color-primary);
+    margin-bottom: 2rem;
+}
+.tehnical_content{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 3rem;
+    column-gap: 2rem;
+    
+}
+.technical_details{
+    display: flex;
+    gap: 1rem;
+}
+.technical_details-icon{
+    color: rgb(230, 226, 13);
+    margin-top: 6px;
+    font-size: 1.2rem;
+}
+
+
+/* ====== Media Query (Medium Devices) */
+
+@media screen and (max-width: 1024px){
+    .technical_container{
+        grid-template-columns: 1fr;
+    }
+    .technical_container > div{ 
+        width: 80%;
+        padding: 2rem;
+        margin: 0 auto;
+    }
+    .tehnical_content{
+        padding: 1rem;
+    }
+}
+/* ====== Media Query (Small Devices) */
+
+@media screen and (max-width: 600px){
+    .technical_container{
+        gap: 1rem;
+       }
+       .technical_container > div{
+        width: 90%;
+        padding: 2rem 1rem;
+        margin: auto;
+       }
+}

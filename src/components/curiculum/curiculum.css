@@ -1,0 +1,52 @@
+.tech_text-bac{
+    background-image: url('../../image/CurBack1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 2rem;
+    border-bottom: 1px solid white;
+}
+.curiculum_button{
+    margin-left: 36%;
+}
+.curiculum_button > div{
+    display: inline-flex;
+    padding: 0 2rem;
+}
+.tech-img{
+    margin-left: auto;
+}
+.tech-img img{ 
+    display: block;
+    margin: auto;
+    width: 10%;
+    border-radius: 2rem;
+    border-top-left-radius: 5rem;
+    border-top-right-radius: 5rem;
+}
+
+
+
+/* ====== Media Query (Medium Devices) */
+
+@media screen and (max-width: 1024px){
+    .curiculum_button > div{
+        padding: 0 0.5rem;
+    }
+}
+/* ====== Media Query (Small Devices) */
+
+@media screen and (max-width: 600px){
+    .curiculum_button > div{
+        padding: 0;
+    }
+    .tech-img img{
+        width: 30%;
+    }
+    .curiculum_button{
+        margin-left: 15%;
+    }
+    .curiculum_button > div{
+        padding: 0 0.5rem;
+    }
+    
+}

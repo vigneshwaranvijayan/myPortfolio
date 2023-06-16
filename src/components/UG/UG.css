@@ -1,0 +1,52 @@
+.ugDetails{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 2rem;
+    gap: 2rem;
+}
+.college h3{
+    color: white;
+    margin-top: 3rem;
+}
+.ug_detail h2{
+    color: rgb(35, 207, 230);
+    text-align: center;
+}
+.ug_detail li{
+    color: white;
+    margin-top: 1rem;
+    text-align: justify;
+}
+.ug_detail{
+    border: 1px solid white;
+    border-radius: 2rem;
+    padding: 2rem;
+}
+.ug_detail img{
+   border-radius: 2rem;
+}
+.ug_button{
+    margin-top: 2rem;
+    margin-left: 40%;
+}
+
+
+@media screen and (max-width: 1024px){
+    .ugDetails{
+        grid-template-columns: 1fr;
+    
+    }
+  
+  }
+  /* ====== Media Query (Small Devices) */
+  
+  @media screen and (max-width: 600px){
+    .ug_detail{
+        width: 80%;
+        margin: auto;
+    }
+    .ug_detail li{
+        font-size: 0.9rem;
+    }
+    
+  }

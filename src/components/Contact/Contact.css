@@ -1,0 +1,87 @@
+.contact_container{
+    width: 58%;
+    display: grid;
+    grid-template-columns: 30% 58%;
+    gap: 12%;
+}
+
+.contact_options{
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+.contact_option {
+    background: var(--color-bg-variant);
+    padding: 1.2rem;
+    border-radius: 1.2rem;
+    text-align: center;
+    border: 1px solid transparent;
+    transition: var(--transition);
+}
+.contact_option:hover{
+    background: transparent;
+    border-color: var(--color-primary-variant);
+}
+.contact_option_icon{
+    font-size: 2rem;
+    margin-bottom: 0.rem;
+}
+.email_icon{
+    color: rgb(236, 7, 7);
+}
+.inst_icon{
+    color: rgb(240, 7, 151);
+}
+.whatsApp_icon{
+    color: rgb(16, 223, 85);
+}
+.contact_option a{
+    margin-top: 0.7rem;
+    display: inline-block;
+    font-size: 0.8rem;
+}
+
+/* ======= From ======== */
+
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+
+input, textarea{
+    width: 100%;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    background: transparent;
+    border: 2px solid var(--color-primary-variant);
+    resize: none;
+    border: 0.5px solid white;
+    color: white;
+    font-size: medium;
+}
+
+
+
+
+
+/* ====== Media Query (Medium Devices) */
+
+@media screen and (max-width: 1024px){
+    .contact_container{
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+}
+/* ====== Media Query (Small Devices) */
+
+@media screen and (max-width: 600px){
+    .contact_options{
+       width: 80%;
+       margin: auto;
+    }
+    form{
+        width: 80%;
+        margin: auto;
+    }
+}
