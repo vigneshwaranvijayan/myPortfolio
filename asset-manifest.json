@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/myPortfolio.github.io/react_upload/static/css/main.e9feb5f1.css",
-    "main.js": "/myPortfolio.github.io/react_upload/static/js/main.dc088612.js",
+    "main.css": "/myPortfolio.github.io/react_upload/static/css/main.9f898290.css",
+    "main.js": "/myPortfolio.github.io/react_upload/static/js/main.f1c53a8a.js",
     "static/media/MeBack.png": "/myPortfolio.github.io/react_upload/static/media/MeBack.91e25e8bc0c15053f25e.png",
     "static/media/instBac.png": "/myPortfolio.github.io/react_upload/static/media/instBac.e1630b6a62b106c82afd.png",
-    "static/media/CV.pdf": "/myPortfolio.github.io/react_upload/static/media/CV.78c9125fd0eb835eef12.pdf",
+    "static/media/CV.pdf": "/myPortfolio.github.io/react_upload/static/media/CV.1f9612017b8d51c9a62e.pdf",
     "static/media/me-about1.jpg": "/myPortfolio.github.io/react_upload/static/media/me-about1.49402cc99233449bf249.jpg",
     "static/media/esec.jpg": "/myPortfolio.github.io/react_upload/static/media/esec.f2e09866a1d4f7882577.jpg",
     "static/media/VC.jpg": "/myPortfolio.github.io/react_upload/static/media/VC.c5857553843cfcc6ed66.jpg",
@@ -33,11 +33,11 @@
     "static/media/game1.jpg": "/myPortfolio.github.io/react_upload/static/media/game1.18960ed41490ff727cf9.jpg",
     "static/media/W1.jpg": "/myPortfolio.github.io/react_upload/static/media/W1.cc1c6943ec523908c189.jpg",
     "index.html": "/myPortfolio.github.io/react_upload/index.html",
-    "main.e9feb5f1.css.map": "/myPortfolio.github.io/react_upload/static/css/main.e9feb5f1.css.map",
-    "main.dc088612.js.map": "/myPortfolio.github.io/react_upload/static/js/main.dc088612.js.map"
+    "main.9f898290.css.map": "/myPortfolio.github.io/react_upload/static/css/main.9f898290.css.map",
+    "main.f1c53a8a.js.map": "/myPortfolio.github.io/react_upload/static/js/main.f1c53a8a.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9feb5f1.css",
-    "static/js/main.dc088612.js"
+    "static/css/main.9f898290.css",
+    "static/js/main.f1c53a8a.js"
   ]
 }
