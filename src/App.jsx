@@ -11,8 +11,8 @@ export default function App(){
     <div>
       <BrowserRouter>
         <Routes>
-          <Route index element={<Home/>} />
-          <Route path='/home' element={<Home/>} />
+          {/* <Route index element={<Home/>} /> */}
+          <Route path='/' element={<Home/>} />
           <Route path='/pg' element={<PG/>} />
           <Route path='/ug' element={<UG/>} />
           <Route path='/other' element={<Other/>} />

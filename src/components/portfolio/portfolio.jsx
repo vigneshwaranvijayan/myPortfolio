@@ -23,8 +23,8 @@ const portfolio = () => {
           </div>
           <h3>Basic Calculator</h3>
           <div className="portfolio_item-cta">
-            <a href="https://github.com/vigneshwaranvijayan" className='btn btn-primary'>Guithub</a>
-            {/* <a href="https://github.com/" className='btn btn-primary' >Live Demo</a> */}
+            {/* <a href="https://github.com/vigneshwaranvijayan" className='btn btn-primary'>Guithub</a>
+            <a href="https://github.com/" className='btn btn-primary' >Live Demo</a> */}
           </div>
         </article>
         <article className='portfolio_item'>
@@ -33,7 +33,7 @@ const portfolio = () => {
           </div>
           <h3>NodeJS connect with MySQL</h3>
           <div className="portfolio_item-cta">
-            <a href="https://github.com/vigneshwaranvijayan" className='btn btn-primary'>Guithub</a>
+            {/* <a href="https://github.com/vigneshwaranvijayan" className='btn btn-primary'>Guithub</a> */}
             {/* <a href="https://github.com/" className='btn btn-primary' >Live Demo</a> */}
           </div> 
         </article>
@@ -43,7 +43,7 @@ const portfolio = () => {
           </div>
           <h3>Clone Web</h3>
             <div className="portfolio_item-cta">
-              <a href="https://github.com/vigneshwaranvijayan" className='btn btn-primary'>Guithub</a>
+              {/* <a href="https://github.com/vigneshwaranvijayan" className='btn btn-primary'>Guithub</a> */}
               {/* <a href="https://github.com/" className='btn btn-primary' >Live Demo</a> */}
             </div>
         </article>
@@ -53,7 +53,7 @@ const portfolio = () => {
           </div>
           <h3>Animated Web</h3>
           <div className="portfolio_item-cta">
-            <a href="https://github.com/vigneshwaranvijayan" className='btn btn-primary'>Guithub</a>
+            {/* <a href="https://github.com/vigneshwaranvijayan" className='btn btn-primary'>Guithub</a> */}
             {/* <a href="https://github.com/" className='btn btn-primary' >Live Demo</a> */}
           </div>
         </article>
@@ -63,7 +63,7 @@ const portfolio = () => {
           </div>
           <h3>Basic Landpage</h3>
           <div className="portfolio_item-cta">
-            <a href="https://github.com/vigneshwaranvijayan" className='btn btn-primary'>Guithub</a>
+            {/* <a href="https://github.com/vigneshwaranvijayan" className='btn btn-primary'>Guithub</a> */}
             {/* <a href="https://github.com/" className='btn btn-primary' >Live Demo</a> */}
           </div>
         </article>
@@ -73,7 +73,7 @@ const portfolio = () => {
           </div>
           <h3>Multiple Action with JS</h3>
           <div className="portfolio_item-cta">
-            <a href="https://github.com/vigneshwaranvijayan" className='btn btn-primary'>Guithub</a>
+            {/* <a href="https://github.com/vigneshwaranvijayan" className='btn btn-primary'>Guithub</a> */}
             {/* <a href="https://github.com/" className='btn btn-primary' >Live Demo</a> */}
           </div>
         </article>
@@ -90,7 +90,7 @@ const portfolio = () => {
             </div>
             <h3>2D Bird Fly Game</h3>
             <div className="portfolio_item-cta">
-             <a href="https://github.com/vigneshwaranvijayan" className='btn btn-primary'>Guithub</a>
+             {/* <a href="https://github.com/vigneshwaranvijayan" className='btn btn-primary'>Guithub</a> */}
              {/* <a href="https://github.com/" className='btn btn-primary' >Live Demo</a> */}  
             </div>
           </article>
@@ -100,7 +100,7 @@ const portfolio = () => {
             </div>
             <h3>2D Car Game</h3>
             <div className="portfolio_item-cta">
-              <a href="https://github.com/vigneshwaranvijayan" className='btn btn-primary'>Guithub</a>
+              {/* <a href="https://github.com/vigneshwaranvijayan" className='btn btn-primary'>Guithub</a> */}
               {/* <a href="https://github.com/" className='btn btn-primary' >Live Demo</a> */}
             </div>
           </article>

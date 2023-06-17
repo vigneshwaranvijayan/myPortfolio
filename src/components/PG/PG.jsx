@@ -30,7 +30,7 @@ const PG = () => {
           </article>
         </div>
         <div className="ug_button">
-           <a href="/#curiculum" className="btn btn-primary">Back</a>
+           <a href="/" className="btn btn-primary">Back</a>
         </div>
       </div>
     </section>

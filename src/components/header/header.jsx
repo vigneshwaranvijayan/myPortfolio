@@ -7,25 +7,34 @@ import {GiFlamingArrow} from 'react-icons/gi'
 
 const header = () => {
   return (
-    <header>
+    <section id='header'>
       <div className="container header_container">
-          <article className='hed_img'>
-            <div className="me">
-              <img src={ME} alt="me" srcset="" />
+        <article className='hed_img'>
+          <div className="me">
+            <img src={ME} alt="me" srcset="" />
+          </div>
+        </article>
+        <article className='hed_containers'>
+          <h5>Hello I'm</h5><br />
+          <h1>Vigneshwaran v</h1> <br />
+          <div className='head_text'>
+            <div class="scroller">
+              <span>
+                  Web Developer<br/>
+                  Backend Developer<br/>
+                  Full Stack Developer<br/>
+                  Game Developer
+              </span>
             </div>
-          </article>
-          <article className='hed_containers'>
-            <h5>Hello I'm</h5>
-            <h1>Vigneshwaran v</h1> <br />
-            <h3>Web Developer</h3>
-            <CTA/>
-            <HeaderSocial/>
-            <div className='scroll_down'>
-              <a href='#contact' className='scroll-down'><GiFlamingArrow/> Scroll Down</a>
-            </div>
-          </article>
+          </div>
+          <CTA/><br />
+          <HeaderSocial/><br />
+          <div className='scroll_down'>
+            <a href='#contact' className='scroll-down'><GiFlamingArrow/> Scroll Down</a>
+          </div>
+        </article>
       </div>
-    </header>
+    </section>
   )
 }
 

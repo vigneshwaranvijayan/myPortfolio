@@ -36,7 +36,7 @@ const Others = () => {
           </article>
         </div>
         <div className='other_btn'>
-          <a href="/#curiculum" className='btn btn-primary'>Back</a>
+          <a href="/" className='btn btn-primary'>Back</a>
         </div>
       </div>
     </section>

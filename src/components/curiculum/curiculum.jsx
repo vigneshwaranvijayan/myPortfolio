@@ -16,13 +16,13 @@ const curiculum = () => {
             <br />
             <div className="curiculum_button">
               <div>
-                <a href="/ug#UG" className='btn'>UG</a>
+                <a href="/ug" className='btn'>UG</a>
               </div>
               <div>
-                <a href="/pg#PG" className='btn btn-primary'>PG</a>
+                <a href="/pg" className='btn btn-primary'>PG</a>
               </div>
               <div>
-                <a href="/other#Others" className='btn'>Others</a>
+                <a href="/other" className='btn'>Others</a>
               </div>
             </div>
           </div> 
